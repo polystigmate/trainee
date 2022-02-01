@@ -3,4 +3,3 @@
 /ingress.yaml
 /ansible
 /docker-compose
-/app/__pycache__
